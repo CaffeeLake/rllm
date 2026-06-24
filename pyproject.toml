@@ -81,7 +81,7 @@ verl = [
     "ray",
     "torch>=2.10.0",
     "torchvision>=0.23.0",
-    "vllm==0.22.1",
+    "vllm==0.23.0",
     "flash-attn==2.8.3",
     "qwen-vl-utils",
 ]
@@ -101,7 +101,7 @@ opentelemetry = [
 ]
 
 smolagents = [
-    "smolagents==1.20.0",
+    "smolagents==1.25.0",
 ]
 
 strands = [
